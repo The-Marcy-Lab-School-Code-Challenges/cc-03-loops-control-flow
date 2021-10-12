@@ -1,7 +1,21 @@
 //1
-function absoluteValue(){
+function sumOfThreeAndFive(){
   
 }
+
+function greaterNum(){
+  
+}
+
+function oddAndEvenInFifteen(){
+  
+}
+
+function sortThreeNums(){
+  
+}
+
+
 
 
 
