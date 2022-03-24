@@ -40,7 +40,7 @@ oddAndEvenInFifteen()
 
 
 ### Bonus 
-2. Write a function sortThreeNums that takes in three integer arguments and returns the three integers sorted from greatest to least. Solve this without using any sorting methods, and only using conditional statements. 
+4. Write a function sortThreeNums that takes in three integer arguments and returns the three integers sorted from greatest to least. Solve this without using any sorting methods, and only using conditional statements. 
 ```
 sortThreeNums(-14,14,-1) //console.logs: 14, -1, -14
 sortThreeNums(2,5,50) //console.logs: 50, 5, 2
