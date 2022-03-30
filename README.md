@@ -10,7 +10,7 @@
 
 ## Code Problems
 
-1. Write a function named sumOfThreeAndFive that returns the sum of all the multiples of 3 or 5 from 1 to 1000.
+1. Write a function named sumOfThreeAndFive that returns the sum of all the multiples of 3 and multiples of 5 from 1 to 1000.
 ```
 sumOfThreeAndFive() //returns 233168
 ```
