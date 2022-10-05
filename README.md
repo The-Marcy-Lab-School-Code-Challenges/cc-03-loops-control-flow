@@ -1,4 +1,4 @@
-# Code Challenge: Loops and Control Flow
+# Code Challenge: Loops with Control Flow
 
 ## Instructions
 
