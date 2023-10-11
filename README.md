@@ -17,14 +17,17 @@ sumOfThreeAndFive() //returns 233168
 
 
 2. Write a function named `greaterNum` that:
-  - takes 2 arguments, both numbers.
+  - takes 4 arguments.
   - returns whichever number is the greater (higher) number.
-  - If both arguments are equal, it will return the string "both integers are equal"
+  - If two arguments are equal, it will return the string "two integers are equal"
+  - If three arguments are equal, it will return the string "three integers are equal"
+  - If all arguments are equal, it will return the string "all integers are equal"
   - If a given argument is not an integer data type it will return `null`
 ```
-greaterNum(10, 7) //returns 10
-greaterNum(1.14, 1.14) //returns "both integers are equal"
-greaterNum("21", 21) //returns null
+greaterNum(10, 7, 16, 80) //returns 80
+greaterNum(1.14, 1.14, 5, 7) //returns "two integers are equal"
+greaterNum(1.14, 1.14, 1.14, 7) //returns "three integers are equal"
+greaterNum("21", 21, 60, 3) //returns null
 ```
 
 
